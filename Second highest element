@@ -1,0 +1,25 @@
+#include<stdio.h>
+#include<coio.h>
+int main()
+{
+int a[];
+int i,j,temp;
+printf("Enetr a number of elements);
+scanf("%d",&n);
+for(i=0;i<n;i++)
+{
+scanf("%d",&a[i]);
+}
+
+for(i=0;i<n;i++)
+{
+if(a[i]>a[i+1])
+{
+temp =a [i];
+a[i] = a[i+1];
+a[i+1] = temp;
+}
+}
+
+
+
