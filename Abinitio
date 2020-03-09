@@ -1,0 +1,30 @@
+Abinitio:-
+---------
+          Abinitio is an ETL tool.Actually Abinitio is a greek word which means "From the beginning".
+          ETL:-EXTRACT->TRANSFORM->LOAD.
+          
+          ETL:-The process of extracting data froma particular data source and performing some transformations and then load it into destination folder.
+          
+          Abinitio is one such tool.
+          
+          Using Abinitio,we can implement graphs using GDE(Graphical Develpemnt Environment).
+          
+          GDE:- A workspace to build the graphs .
+          
+          Components of GDE:-
+          ------------------
+          GDE
+          INPUT FILE
+          OUTPUT FILE
+          MULTI FILE(mfs)
+          REFORMAT
+          Filter By expression
+          SORT
+          SORT WITHIN GROUPS
+          
+          
+          
+          
+          
+          
+          
