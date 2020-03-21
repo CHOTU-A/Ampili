@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<html>
+<head>
+<title> html web page</title>
+
+
+</head>
+<body>
+<h1 style = "font-size:60px;">An informaion about aeon magazine</h1>
+<hr>
+<ol>
+<p title = "ttieldadlald"></p>
+<p  title = "title of  para "></p>
+<p style="color:black">wouldn’t show them the note,’ a retired nurse, told my mother.It was a<br> request to meet with my father’s physicians. 
+He had undergone a<br>cardiac surgery, and soon after became lethargic and difficult to rouse.<br>The nurses thought he was simply fatigued from his procedure, and my mother<br> didn’t want to question their professional judgment. Two days later, my<br>
+ father suffered an acute respiratory failure and was rushed to the intensive <br>care unit (ICU). He was intubated and remained dependent on a respirator <br> for days. The nurses told my mother that the doctors were considering a <br> tracheostomy, but up to that point no ICU physician (called an ‘intensivist’) <br> had so much as talked to my family.</p>
+ 
+<a href = "https://www.amazon.in">link of amazon  </a>
+<p>for more deatils click the below link </p> 
+  <a href ="https://www.google.co.in">google link</a>
+  
+<a href ="https://www.linkedin.com"> Linkedin.com </a>
+</ol>
+</body> 
+</html>
