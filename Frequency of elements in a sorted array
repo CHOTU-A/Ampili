@@ -1,0 +1,39 @@
+#include<stdio.h>
+int main()
+{
+int i, a[100],j,n;
+int fr[100]; ##stores the frequency of each elemnt in an array
+
+scanf("%d",&n);
+
+      for(i=0;i<n;i++0
+     {  count = 1;
+        for(j=i+1;j<n;j++)
+        {
+          if(a[i]==a[j])
+          {
+            count++;
+            fr[j]= -1;
+          }
+        }
+          
+          if(fr[i]!=0)
+           { 
+             fr[i] = count;
+           }
+        }   
+        
+        for(i=0;i<n;i++)
+        {
+          if(fr[i[!=0)
+            {
+               printf("%d\t%d", a[i],fr[i]);
+            }
+         }   
+           
+      }     
+           
+           
+          
+          
+          
