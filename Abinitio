@@ -1,6 +1,6 @@
 Abinitio:-
 ---------
-          Abinitio is an ETL tool.Actually Abinitio is a greek word which means "From the beginning".
+          Ab Initio is an ETL tool.Actually Abinitio is a greek word which means "From the beginning".
           ETL:-EXTRACT->TRANSFORM->LOAD.
           
           ETL:-The process of extracting data froma particular data source and performing some transformations and then load it into destination folder.
